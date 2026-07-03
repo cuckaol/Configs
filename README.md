@@ -1,1 +1,1 @@
-# Configs
+vless://d73b8843-e5be-40fc-86c0-c3030ff47fb1@rg.bot-human.space:9010?security=reality&encryption=none&pbk=KN1iC4QtWi2hKbQ1zJerNck6YRGbIpzdLMn1C2hhQjs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=e8b1541e7387ffba#%F0%9F%87%B1%F0%9F%87%BB%20%F0%9D%90%8B%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%AF%F0%9D%90%A2%F0%9D%90%9A
